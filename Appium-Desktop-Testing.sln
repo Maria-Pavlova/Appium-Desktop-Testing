@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appium-Desktop-Testing", "Appium-Desktop-Testing\Appium-Desktop-Testing.csproj", "{F1999086-2D94-4FB0-81B3-41A65C4B5680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appium-Desktop-Testing", "Appium-Desktop-Testing\Appium-Desktop-Testing.csproj", "{F1999086-2D94-4FB0-81B3-41A65C4B5680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appium-Automated-Tests-for-7-Zip-Windows-App", "Appium-Automated-Tests-for-7-Zip-Windows-App\Appium-Automated-Tests-for-7-Zip-Windows-App.csproj", "{92B45741-5015-41E3-AF24-24AC0BE77667}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F1999086-2D94-4FB0-81B3-41A65C4B5680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1999086-2D94-4FB0-81B3-41A65C4B5680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1999086-2D94-4FB0-81B3-41A65C4B5680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B45741-5015-41E3-AF24-24AC0BE77667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B45741-5015-41E3-AF24-24AC0BE77667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B45741-5015-41E3-AF24-24AC0BE77667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B45741-5015-41E3-AF24-24AC0BE77667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
